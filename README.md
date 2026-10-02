@@ -38,7 +38,7 @@ _Add a screenshot of the project here._
 
 ## 🌐 Live Demo
 
-[https://mohamed-atef0.github.io/Events-Manager/](#)
+https://mohamed-atef0.github.io/Events-Manager/
 
 ## 👨‍💻 Author
 

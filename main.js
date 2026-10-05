@@ -95,7 +95,7 @@ displayEvent();
 
 function deleteEvent(index) {
   const events = JSON.parse(localStorage.getItem("events"));
-  events.splice(0, 1);
+  events.splice(index, 1);
   localStorage.setItem("events", JSON.stringify(events));
   displayEvent();
 }
